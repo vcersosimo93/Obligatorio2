@@ -8,10 +8,16 @@ namespace Obligatorio1
 {
     class Voluntario
     {
+        //holaaaaa
         private string nombre;
         private string cedula;
         private int telefono;
         private DateTime fechaDeNacimiento;
+        //sdfsdfsdf
+        //H
+        //O
+        //L
+        //A
 
         public string Nombre
         {

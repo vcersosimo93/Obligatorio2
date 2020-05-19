@@ -8,6 +8,7 @@ namespace Obligatorio1
 {
     class UsuarioVoluntario : Usuario
     {
+        //dfgdfgdfg
 
     }
 }
