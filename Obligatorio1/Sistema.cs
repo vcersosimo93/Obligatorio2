@@ -9,6 +9,7 @@ namespace Obligatorio1
     class Sistema
     {
         //asdasdasd
+        //khvjhvkb
 
         // se crean listas de tipo de que cada una de las clases.
         
