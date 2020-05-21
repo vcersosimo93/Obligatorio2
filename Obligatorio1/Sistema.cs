@@ -8,8 +8,7 @@ namespace Obligatorio1
 {
     class Sistema
     {
-        //asdasdasd
-        //khvjhvkb
+        // cambio 20/5/2020 11:35
 
         // se crean listas de tipo de que cada una de las clases.
         
