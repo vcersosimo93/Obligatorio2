@@ -9,9 +9,10 @@ namespace Obligatorio1
     class Sistema
     {
         // cambio 20/5/2020 11:35
+        // cambio 21/5/2020
 
         // se crean listas de tipo de que cada una de las clases.
-        
+
         private List<CentroRecepcion> centrosRecepcion = new List<CentroRecepcion>();
         private List<Voluntario> voluntarios= new List<Voluntario>();
         private List<Donacion> donaciones = new List<Donacion>();
